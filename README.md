@@ -1,4 +1,4 @@
-# 📊 Análisis Financiero y Modelado de Series Temporales con ARIMA
+# 📊 Análisis y Perfilamiento de Acciones Argentinas con Clustering
 
 ## Descripción del Proyecto
 Este proyecto realiza un **análisis de activos financieros argentinos** (acciones cotizadas en Bolsa y tipo de cambio) desde 2023 hasta 2025, con el objetivo de:
