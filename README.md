@@ -11,13 +11,21 @@ Este proyecto realiza un **análisis de activos financieros argentinos** (accion
 
 El proyecto está desarrollado íntegramente en **Python**, utilizando librerías como `pandas`, `numpy`, `yfinance`, `matplotlib`, `seaborn` y `statsmodels`.
 
+El análisis completo se encuentra en el notebook:
+
+📄 `notebooks/tp_final_Grupo4.ipynb`
+
 ---
+## 📁 Estructura del Repositorio
 
-## Estructura del Repositorio
-
----
-
-
+```text
+Clustering-Activos-Financieros/  
+│
+├── notebooks/
+│   └── tp_final_Grupo4.ipynb   # Notebook principal
+│
+└── README.md
+```
 ---
 
 ## Tecnologías y Librerías
@@ -67,11 +75,22 @@ El proyecto está desarrollado íntegramente en **Python**, utilizando librería
 ---
 
 ## Visualizaciones
-- Histogramas y boxplots de métricas financieras.
-- Matrices de dispersión antes y después del tratamiento de outliers.
-- Boxplots de métricas por cluster.
-- Gráficos de centroides y cluster destacado.
-- Series temporales reales vs predicciones ARIMA.
+
+<img width="637" height="528" alt="Matriz de Correlacion" src="https://github.com/user-attachments/assets/de00daac-05e2-4d1c-9115-441a8e746675" />        
+    
+
+<img width="986" height="1023" alt="Matriz de dispersión original" src="https://github.com/user-attachments/assets/c473b28d-201e-422c-810c-f6195afe973a" />  
+
+<img width="985" height="1023" alt="Matriz de dispersión sin outliers" src="https://github.com/user-attachments/assets/b037f9a5-0c6b-4e04-a81a-7d779255b35c" />  
+
+
+<img width="708" height="394" alt="Grafico de Silloute" src="https://github.com/user-attachments/assets/3f517b87-f098-4fbd-a28b-85c1ae836aef" />  
+
+  
+<img width="976" height="590" alt="Centroides de Clusters" src="https://github.com/user-attachments/assets/823153b7-b6d3-41dd-bba2-1ae17d0313d6" />  
+  
+ 
+<img width="1486" height="790" alt="Modelo ARIMA" src="https://github.com/user-attachments/assets/9b62dc03-c54e-48cd-b7ae-67d3670cae56" />  
 
 > Nota: Para no sobrecargar el repositorio, las imágenes generadas se incluyen en los **issues** del proyecto o se pueden generar directamente desde los notebooks.
 
@@ -80,8 +99,15 @@ El proyecto está desarrollado íntegramente en **Python**, utilizando librería
 ## 
 
 ---
+## ✨ Autores
 
-Autores
+Este proyecto fue realizado en el marco de presentación de ultimo Trabajo Practico de la Materia Aprendizaje Autómatico de la Licenciatura en Ciencia de Datos.
+
+- **Acevedo, David**  
+- **Galeano, Mónica Inés**  
+- **Rodriguez, Raúl Matías**
+
+Año: 2025 — Universidad del Gran Rosario  
 
 
 
