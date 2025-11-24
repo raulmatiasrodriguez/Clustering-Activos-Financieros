@@ -1,6 +1,5 @@
-# 📊 Análisis y Perfilamiento de Acciones Argentinas con Clustering
+# 📊 Análisis y Perfilamiento de Acciones Argentinas con Clustering  
 
-## Descripción del Proyecto
 Este proyecto realiza un **análisis de activos financieros argentinos** (acciones cotizadas en Bolsa y tipo de cambio) desde 2023 hasta 2025, con el objetivo de:
 
 - Evaluar la evolución histórica de los precios de cierre en USD.
