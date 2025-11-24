@@ -96,7 +96,11 @@ Clustering-Activos-Financieros/
 
 ---
 
-## 
+## 🎥 Video de demostración  
+
+[![Ver video](https://img.youtube.com/vi/7tpNCkkmVM8/0.jpg)](https://youtu.be/7tpNCkkmVM8)  
+
+> El video muestra la ejecución del proyecto y las visualizaciones generadas.  
 
 ---
 ## ✨ Autores
